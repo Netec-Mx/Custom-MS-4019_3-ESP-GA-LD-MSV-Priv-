@@ -10,7 +10,6 @@ Te damos la bienvenida a la **plataforma de laboratorios** del curso **Transform
 
 Aquí podrás desarrollar habilidades prácticas en la creación, configuración y administración de agentes en SharePoint, utilizando Microsoft 365 Copilot para optimizar la revisión de solicitudes internas de servicios tecnológicos y operativos.
 
-Antes de comenzar, consulta la [guía de preparación del entorno](SETUP_GUIDE.md) para verificar los requisitos de software, licenciamiento, permisos y configuración necesarios.
 
 ## Lista de laboratorios
 
